@@ -1,0 +1,17 @@
+E:\Program\Android\AndroidDemo\AndroidDemo\bin\Debug\AndroidDemo.dll
+E:\Program\Android\AndroidDemo\AndroidDemo\bin\Debug\AndroidDemo.pdb
+E:\Program\Android\AndroidDemo\AndroidDemo\bin\Debug\AndroidDemo.AndroidDemo.apk
+E:\Program\Android\AndroidDemo\AndroidDemo\bin\Debug\AndroidDemo.AndroidDemo-Signed.apk
+E:\Program\Android\AndroidDemo\AndroidDemo\obj\Debug\AndroidDemo.dll
+E:\Program\Android\AndroidDemo\AndroidDemo\obj\Debug\AndroidDemo.pdb
+E:\Program\Android\AndroidDemo\AndroidDemo\obj\Debug\android\bin\AndroidDemo.AndroidDemo.apk
+E:\Program\Android\AndroidDemo\AndroidDemo\obj\Debug\res\layout\main.xml
+E:\Program\Android\AndroidDemo\AndroidDemo\obj\Debug\res\values\strings.xml
+E:\Program\Android\AndroidDemo\AndroidDemo\obj\Debug\res\drawable\icon.png
+E:\Program\Android\AndroidDemo\AndroidDemo\obj\Debug\R.cs.flag
+E:\Program\Android\AndroidDemo\AndroidDemo\obj\Debug\uploadflags.txt
+E:\Program\Android\AndroidDemo\AndroidDemo\obj\Debug\res\layout\textview.xml
+E:\Program\Android\AndroidDemo\AndroidDemo\obj\Debug\res\layout\edittest.xml
+E:\Program\Android\AndroidDemo\AndroidDemo\obj\Debug\AndroidDemo.csprojResolveAssemblyReference.cache
+E:\Program\Android\AndroidDemo\AndroidDemo\bin\Debug\AndroidDemo.dll.mdb
+E:\Program\Android\AndroidDemo\AndroidDemo\obj\Debug\android\assets\AndroidDemo.dll.mdb
